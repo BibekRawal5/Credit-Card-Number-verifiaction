@@ -85,5 +85,6 @@ int main(void)
     }
 
     printf("%s\n", result);
+    getch();
 }
-getch();
+
